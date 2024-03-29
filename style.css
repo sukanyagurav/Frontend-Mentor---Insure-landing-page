@@ -21,6 +21,7 @@ button{
     color: var(--lightGray);
     border: 1px solid var(--lightGray);
     transition: all 0.5s ;
+    font-weight: 700;
 }
 button:hover{
     color: var(--darkViolet);
@@ -318,6 +319,7 @@ footer > div{
 }
 .header__content a{
     padding-bottom: 0.5rem;
+    text-transform: uppercase;
 }
 .close{
     display: none;
